@@ -1,0 +1,157 @@
+.continer{
+    max-width: 1400px;
+    height: 1500px;
+    margin:  0 auto;
+    border: 1px solid;
+}
+.prosess{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around
+}
+.uzairline{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.mercedes{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.elementsss{
+    display: flex;
+}
+
+.elements{
+    row-gap: 10px;
+    flex-direction: column;
+    display: flex;
+    width: 50%;
+    height: 100%;
+}
+
+.elements2{
+    row-gap: 10px;
+    flex-direction: column;
+    display: flex;
+    width: 50%;
+    height: 100%; 
+}
+.elements2 img{
+    width: 200px;
+    height: 200px;
+    margin-left: 250px;
+}
+.elements img{
+    width: 200px;
+    height: 200px;
+    margin-left: 250px;
+}
+
+
+.taxi{
+    display: none;
+}
+
+.kirish{
+    display: none;
+}
+
+.register{
+    display: none;
+}
+
+.kutmoq{
+    display: none;
+}
+
+.chiqmoq{
+    display: none;
+}
+
+.tushmoq {
+    display: none;
+}
+
+
+
+.activtaxi{
+    display: block;
+}
+
+
+.activkirish{
+    display: block;
+}
+
+.activkutmoq{
+    display: block;
+}
+
+.activchiqmoq{
+    display: block;
+}
+
+.activregister{
+    display: block;
+}
+.activtushmoq{
+    display: block;
+}
+
+
+.airways{
+    border-radius: 10px;
+    background-color: rgb(255, 151, 6);
+    border: none;
+    width: 100px;
+    height: 30px;
+    color: black;
+}
+.benz{
+    border-radius: 10px;
+    background-color: rgb(255, 151, 6);
+    border: none;
+    width: 100px;
+    height: 30px;
+    color: black;
+}
+
+
+.kuzip{
+    display: none;
+}
+.kraska{
+    display: none;
+}
+.tayyor{
+    display: none;
+}
+.detal1{
+    display: none;
+}
+.detal2{
+    display: none;
+}
+
+.activkuzip{
+    display: block;
+}
+.activdetal1{
+    display: block;
+}
+.activdetal2{
+    display: block;
+}
+.activkraska{
+    display: block;
+}
+.activtayyor{
+    display: block;
+}
